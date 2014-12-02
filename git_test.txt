@@ -1,3 +1,10 @@
 testing git 
 and now a change!and again
+<<<<<<< HEAD
 class exercise
+=======
+
+
+
+This is my change - Andres Carrera
+>>>>>>> f1fcdcde6f04fe8d57f93fcb0d384fefcd3b1ce2
