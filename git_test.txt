@@ -1,2 +1,3 @@
 testing git 
 and now a change!and again
+class exercise
