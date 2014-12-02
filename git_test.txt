@@ -1,7 +1,7 @@
 testing git 
 and now a change!and again
 <<<<<<< HEAD
-class exercise
+this is my change AC  exercise
 =======
 
 
